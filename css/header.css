@@ -1,0 +1,10 @@
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.date_time {
+    display: flex;
+    gap: 10px;
+}
